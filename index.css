@@ -1,0 +1,43 @@
+body{
+	background-color: #FFA75A;
+}
+
+.wrapper{
+	font-family: 'Oswald', sans-serif;
+	text-align: justify;
+	color: #FFFDED;
+	background-color: #F7975C;
+	padding: 10%;
+	margin: 10%;
+}
+
+.wrapper-title{
+	font-size: 75px;
+	line-height: 100%;
+}
+
+.wrapper-picture{
+	width: 200px;
+	height: 300px;
+
+}
+
+.photo-box{
+	text-align: center;
+	color: #FF5F0C;
+}
+
+.photo-legend{
+	color: #FF6914;
+	font-family: 'Noto Serif', serif;
+	font-size: 100px;
+}
+
+img{
+	width: 40vw;
+}
+
+.wrapper-ending{
+	color: #FF5F0C;
+	text-align: center;
+}
